@@ -1,0 +1,11 @@
+
+
+.conversationWindow {
+    flex-grow: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    max-height: 100vh;
+    overflow-y: auto;
+  }
+  

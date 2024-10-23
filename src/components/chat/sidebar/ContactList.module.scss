@@ -1,0 +1,20 @@
+// @use "../../scss/abstracts/" as *;
+
+
+.contactList {
+    padding: 20px;
+    width: 250px;
+  
+    h4 {
+      margin: 10px 0;
+    }
+  
+    p {
+      color: grey;
+    }
+  
+    small {
+      color: lightgrey;
+    }
+  }
+  

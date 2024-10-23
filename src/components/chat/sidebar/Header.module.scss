@@ -1,0 +1,14 @@
+// src/components/Header.module.scss
+.header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    background-color: var(--header-bgc);
+  
+    button {
+      margin-left: 10px;
+      padding: 5px 10px;
+      cursor: pointer;
+    }
+  }
+  
